@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "419124306853",
+    "project_id": "todo-3d9b6",
+    "storage_bucket": "todo-3d9b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419124306853:android:17b0da24ccaa5c78d57e4c",
+        "android_client_info": {
+          "package_name": "br.com.mateus.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419124306853-r57hqt8jbtg9dso9g717s1478n5netc7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-nbSpwIp_LxJqOinWNp0CSEdlmhdAbNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419124306853-r57hqt8jbtg9dso9g717s1478n5netc7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
